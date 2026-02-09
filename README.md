@@ -1,4 +1,4 @@
-# Konichiwa 👋 I'm Zamn
+# Konichiwa 👋 I'm Karl
 
 <p align="center">
   <img height="260" width="680" alt="Header GIF" 
@@ -9,10 +9,15 @@
 
 ## About Me 💬
 
-<p align="right">
-  <img height="320" width="420" alt="Coding GIF"
+<div align="right" style="display: flex; gap: 10px;">
+
+  <img height="320" width="420" alt="Coding GIF" 
   src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
-</p>
+
+  <img height="320" width="420" alt="Extra GIF" 
+  src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/master/assets/35467.gif">
+
+</div>
 
 ### 👨‍💻 BSIT Student | Web Developer  
 📍 Mandaue City, Cebu, Philippines  
