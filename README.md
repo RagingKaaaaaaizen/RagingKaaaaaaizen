@@ -9,15 +9,12 @@
 
 ## About Me 💬
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-
+<p align="center">
   <img height="320" width="420" alt="Coding GIF" 
   src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
-
   <img height="320" width="420" alt="Extra GIF" 
   src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/35467.gif">
-
-</div>
+</p>
 
 ### 👨‍💻 BSIT Student | Web Developer  
 📍 Mandaue City, Cebu, Philippines  
@@ -58,7 +55,7 @@ I enjoy turning ideas into working products, learning modern frameworks, and con
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="80"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="80"/>
 </p>
 
