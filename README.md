@@ -1,95 +1,107 @@
-# Konichiwa 👋 I'm Karl
+# Konichiwa 👋 I'm Zamn
 
-<div align="center">
-  <img height="300" width="700" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
-</div>
+<p align="center">
+  <img height="260" width="680" alt="Header GIF" 
+  src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+</p>
 
 <br/>
-<br/>
 
-# About Me 💬
+## About Me 💬
 
-### 👨‍💻 BSIT Student | Aspiring Web Developer | OJT-ready
+<p align="right">
+  <img height="320" width="420" alt="Coding GIF"
+  src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+</p>
+
+### 👨‍💻 BSIT Student | Web Developer  
 📍 Mandaue City, Cebu, Philippines  
 
-I’m a highly motivated **BSIT student** looking for an **OJT opportunity** where I can apply my technical skills, gain real-world experience, and contribute to meaningful web development projects.  
-Always eager to learn, adapt to new technologies, and grow as a developer.
+I’m a **BSIT student** with a strong interest in **web development** and building practical, user-focused applications.  
+I enjoy turning ideas into working products, learning modern frameworks, and continuously improving my technical skills through hands-on projects.
 
-<img height="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+<br/>
+<br/>
 
 ---
 
-### 🌱 Currently Learning
+## 🌱 Currently Learning
 - ✨ Advanced JavaScript & TypeScript
-- ✨ Angular & React best practices
-- ✨ REST API integration
-- ✨ Real-world project workflows
+- ✨ Angular & React architecture & best practices
+- ✨ REST API design & integration
+- ✨ Scalable and maintainable web apps
 
 ---
 
-### 🎯 Interests & Hobbies
+## 🎯 Interests
 - ✨ Building web apps & MVPs
-- ✨ Exploring new dev tools
-- ✨ Watching Anime
-- ✨ Gaming & tech content
+- ✨ Exploring modern dev tools & workflows
+- ✨ UI/UX-focused development
 - ✨ Learning by doing 🚀
 
-<br/>
-<br/>
+---
+
 <br/>
 
-# Languages & Tools 👨‍💻 🛠
+## Languages & Tools 👨‍💻 🛠
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="90"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="90"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="90"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="90"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="90"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="80"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="90"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="90"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="90"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="90"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="90"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="80"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="90"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="80"/>
 </p>
 
-<br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="80"/>
+</p>
+
+---
+
 <br/>
 
-# Featured Project 🚀
+## Featured Project 🚀
 
 ### 🖥 Computer Lab Inventory Management System  
 **Angular + Node.js + MySQL**
 
 - Real-time inventory tracking  
 - Role-based access control  
-- Full transaction history  
-- Responsive (desktop & mobile)  
-- Designed for scalability and ease of use  
+- Complete transaction history  
+- Responsive on desktop & mobile  
+- Built for usability and scalability  
+
+---
 
 <br/>
 
-# Contact Me 📬
+## Contact Me 📬
 
-If you’d like to connect, collaborate, or discuss an OJT opportunity, feel free to reach out 👇
+If you’d like to connect or collaborate, feel free to reach out 👇
 
 <a href="mailto:Karlvilar000@gmail.com">
-  <img align="left" alt="Gmail" width="120" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+  <img alt="Gmail" width="110"
+  src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
 
 <br/>
 <br/>
-<br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" />
 </p>
 
 ---
