@@ -15,7 +15,7 @@
   src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
   <img height="320" width="420" alt="Extra GIF" 
-  src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/master/assets/35467.gif">
+  src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/35467.gif">
 
 </div>
 
