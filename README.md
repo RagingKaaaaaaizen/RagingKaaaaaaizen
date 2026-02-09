@@ -27,19 +27,38 @@ I enjoy turning ideas into working products, learning modern frameworks, and con
 
 ---
 
+<table>
+<tr>
+<td width="33%" valign="top">
+
 ## 🌱 Currently Learning
 - ✨ Advanced JavaScript & TypeScript
 - ✨ Angular & React architecture & best practices
 - ✨ REST API design & integration
 - ✨ Scalable and maintainable web apps
 
----
+</td>
+<td width="33%" valign="top">
 
 ## 🎯 Interests
 - ✨ Building web apps & MVPs
 - ✨ Exploring modern dev tools & workflows
 - ✨ UI/UX-focused development
 - ✨ Learning by doing 🚀
+
+</td>
+<td width="33%" valign="top">
+
+## 🎮 Hobbies
+- ✨ Sleeping
+- ✨ Gaming Addict
+- ✨ Watching Anime
+- ✨ Reading Manga
+- ✨ Into Esports
+
+</td>
+</tr>
+</table>
 
 ---
 
