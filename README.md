@@ -30,6 +30,7 @@ Always eager to learn, adapt to new technologies, and grow as a developer.
 ### 🎯 Interests & Hobbies
 - ✨ Building web apps & MVPs
 - ✨ Exploring new dev tools
+- ✨ Watching Anime
 - ✨ Gaming & tech content
 - ✨ Learning by doing 🚀
 
