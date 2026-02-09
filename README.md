@@ -10,10 +10,10 @@
 ## About Me 💬
 
 <p align="center">
-  <img height="320" width="420" alt="Coding GIF" 
-  src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
   <img height="320" width="420" alt="Extra GIF" 
   src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/35467.gif">
+  <img height="320" width="420" alt="Coding GIF" 
+  src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 </p>
 
 ### 👨‍💻 BSIT Student | Web Developer  
