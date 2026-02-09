@@ -9,7 +9,7 @@
 
 ## About Me 💬
 
-<div align="right" style="display: flex; gap: 10px;">
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
 
   <img height="320" width="420" alt="Coding GIF" 
   src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
