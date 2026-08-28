@@ -1,4 +1,4 @@
-# Konichiwa 👋 I'm Karl
+ Konichiwa I'm Karl
 
 <p align="center">
   <img height="260" width="680" alt="Header GIF" 
@@ -16,8 +16,8 @@
   src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 </p>
 
-### 👨‍💻 BSIT Student | Web Developer  
-📍 Mandaue City, Cebu, Philippines  
+### BSIT Student | Web Developer  
+Mandaue City, Cebu, Philippines  
 
 I’m a **BSIT student** with a strong interest in **web development** and building practical, user-focused applications.  
 I enjoy turning ideas into working products, learning modern frameworks, and continuously improving my technical skills through hands-on projects.
@@ -31,30 +31,30 @@ I enjoy turning ideas into working products, learning modern frameworks, and con
 <tr>
 <td width="33%" valign="top">
 
-## 🌱 Currently Learning
-- ✨ Advanced JavaScript & TypeScript
-- ✨ Angular & React architecture & best practices
-- ✨ REST API design & integration
-- ✨ Scalable and maintainable web apps
+## Currently Learning
+Advanced JavaScript & TypeScript
+Angular & React architecture & best practices
+REST API design & integration
+Scalable and maintainable web apps
 
 </td>
 <td width="33%" valign="top">
 
-## 🎯 Interests
-- ✨ Building web apps & MVPs
-- ✨ Exploring modern dev tools & workflows
-- ✨ UI/UX-focused development
-- ✨ Learning by doing 🚀
+## Interests
+Building web apps & MVPs
+Exploring modern dev tools & workflows
+UI/UX-focused development
+Learning by doing 🚀
 
 </td>
+
 <td width="33%" valign="top">
 
-## 🎮 Hobbies
-- ✨ Sleeping
-- ✨ Gaming Addict
-- ✨ Watching Anime
-- ✨ Reading Manga
-- ✨ Into Esports
+## Hobbies
+Sleeping
+Gaming Addict
+Watching Anime
+Reading Manga
 
 </td>
 </tr>
@@ -64,7 +64,7 @@ I enjoy turning ideas into working products, learning modern frameworks, and con
 
 <br/>
 
-## Languages & Tools 👨‍💻 🛠
+## Languages & Tools 🛠
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="80"/>
@@ -92,26 +92,10 @@ I enjoy turning ideas into working products, learning modern frameworks, and con
 
 ---
 
-<br/>
 
-## Featured Project 🚀
+## Contact Me
 
-### 🖥 Computer Lab Inventory Management System  
-**Angular + Node.js + MySQL**
-
-- Real-time inventory tracking  
-- Role-based access control  
-- Complete transaction history  
-- Responsive on desktop & mobile  
-- Built for usability and scalability  
-
----
-
-<br/>
-
-## Contact Me 📬
-
-If you’d like to connect or collaborate, feel free to reach out 👇
+If you’d like to connect or collaborate, feel free to reach out 
 
 <a href="mailto:Karlvilar000@gmail.com">
   <img alt="Gmail" width="110"
